@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayListLearn/ArrayListLearn.iml" filepath="$PROJECT_DIR$/ArrayListLearn/ArrayListLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DelayQueueLearn/DelayQueueLearn.iml" filepath="$PROJECT_DIR$/DelayQueueLearn/DelayQueueLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashSetLearn/HashSetLearn.iml" filepath="$PROJECT_DIR$/HashSetLearn/HashSetLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedHashSet/LinkedHashSet.iml" filepath="$PROJECT_DIR$/LinkedHashSet/LinkedHashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListLearn/LinkedListLearn.iml" filepath="$PROJECT_DIR$/LinkedListLearn/LinkedListLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackLearn/StackLearn.iml" filepath="$PROJECT_DIR$/StackLearn/StackLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VectorLearn/VectorLearn.iml" filepath="$PROJECT_DIR$/VectorLearn/VectorLearn.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraysLearn/ArraysLearn.iml" filepath="$PROJECT_DIR$/ArraysLearn/ArraysLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AssertLearn/AssertLearn.iml" filepath="$PROJECT_DIR$/AssertLearn/AssertLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CASLearn/CASLearn.iml" filepath="$PROJECT_DIR$/CASLearn/CASLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloneLearn/CloneLearn.iml" filepath="$PROJECT_DIR$/CloneLearn/CloneLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComparableLearn/ComparableLearn.iml" filepath="$PROJECT_DIR$/ComparableLearn/ComparableLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComparatorLearn/ComparatorLearn.iml" filepath="$PROJECT_DIR$/ComparatorLearn/ComparatorLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EqualsLearn/EqualsLearn.iml" filepath="$PROJECT_DIR$/EqualsLearn/EqualsLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomLearn/RandomLearn.iml" filepath="$PROJECT_DIR$/RandomLearn/RandomLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleLearn/SingleLearn.iml" filepath="$PROJECT_DIR$/SingleLearn/SingleLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperLearn/SuperLearn.iml" filepath="$PROJECT_DIR$/SuperLearn/SuperLearn.iml" />
+    </modules>
+  </component>
+</project>
